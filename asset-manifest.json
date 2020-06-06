@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/blm-email-templates/static/css/main.5f361e03.chunk.css",
-    "main.js": "/blm-email-templates/static/js/main.7940c10e.chunk.js",
-    "main.js.map": "/blm-email-templates/static/js/main.7940c10e.chunk.js.map",
+    "main.js": "/blm-email-templates/static/js/main.2152634e.chunk.js",
+    "main.js.map": "/blm-email-templates/static/js/main.2152634e.chunk.js.map",
     "runtime-main.js": "/blm-email-templates/static/js/runtime-main.991806d7.js",
     "runtime-main.js.map": "/blm-email-templates/static/js/runtime-main.991806d7.js.map",
-    "static/js/2.b1ee3774.chunk.js": "/blm-email-templates/static/js/2.b1ee3774.chunk.js",
-    "static/js/2.b1ee3774.chunk.js.map": "/blm-email-templates/static/js/2.b1ee3774.chunk.js.map",
+    "static/js/2.9f88436c.chunk.js": "/blm-email-templates/static/js/2.9f88436c.chunk.js",
+    "static/js/2.9f88436c.chunk.js.map": "/blm-email-templates/static/js/2.9f88436c.chunk.js.map",
     "index.html": "/blm-email-templates/index.html",
-    "precache-manifest.db5156ef2d6504f4e54e0e3fcc83aad8.js": "/blm-email-templates/precache-manifest.db5156ef2d6504f4e54e0e3fcc83aad8.js",
+    "precache-manifest.548e538e26ba5d4d4361c88c39c7fe47.js": "/blm-email-templates/precache-manifest.548e538e26ba5d4d4361c88c39c7fe47.js",
     "service-worker.js": "/blm-email-templates/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/blm-email-templates/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b1ee3774.chunk.js.LICENSE.txt": "/blm-email-templates/static/js/2.b1ee3774.chunk.js.LICENSE.txt",
+    "static/js/2.9f88436c.chunk.js.LICENSE.txt": "/blm-email-templates/static/js/2.9f88436c.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/blm-email-templates/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.991806d7.js",
-    "static/js/2.b1ee3774.chunk.js",
+    "static/js/2.9f88436c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7940c10e.chunk.js"
+    "static/js/main.2152634e.chunk.js"
   ]
 }

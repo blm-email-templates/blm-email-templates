@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "abe088074070c26a29a8be00453fa21c",
+    "revision": "82a8bd232506def413524307300ce508",
     "url": "/blm-email-templates/index.html"
   },
   {
-    "revision": "bfb76010d26a02d3124b",
+    "revision": "54b743a7319e12b4bf88",
     "url": "/blm-email-templates/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "ea264290b0a3ba872a35",
-    "url": "/blm-email-templates/static/js/2.b1ee3774.chunk.js"
+    "revision": "20a5b2e3ede716bc2b1f",
+    "url": "/blm-email-templates/static/js/2.9f88436c.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/blm-email-templates/static/js/2.b1ee3774.chunk.js.LICENSE.txt"
+    "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
+    "url": "/blm-email-templates/static/js/2.9f88436c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bfb76010d26a02d3124b",
-    "url": "/blm-email-templates/static/js/main.7940c10e.chunk.js"
+    "revision": "54b743a7319e12b4bf88",
+    "url": "/blm-email-templates/static/js/main.2152634e.chunk.js"
   },
   {
     "revision": "1da28dda7f0b33005157",
